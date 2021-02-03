@@ -119,9 +119,10 @@ body {
 }
 
 .purchase {
-  margin-top: 5rem;
+  margin-top: 3rem;
   -webkit-transition: all 0.75s ease-out;
   transition: all 0.75s ease-out;
+  margin-bottom: 20px;
 }
 
 .purchase button {
